@@ -1,0 +1,17 @@
+
+{
+  "notifications_enabled": true,
+  "webhook_url": "https://discord.com/api/webhooks/1388100516696952862/sY1edQbfScPQdJHcuP5BJm5rLYjE3EFF1JwnyQBCXxEmdgsIjqvtJKlfnndK2yiDvEWf",
+  "escalated_webhook_url": "https://discord.com/api/webhooks/1388101068164173924/_zKSJNxHkUHNbdzj16RLg0JrzM4mFqLfy0w3sxFIFmksPqrzF9XD6ksF5RViyqaeqm1M",
+  "escalation_delay_minutes": 1,
+  "escalation_repeat_minutes": 5,
+  "log_file": "bot_status.log",
+  "alert_on": {
+    "disconnections": true,
+    "reconnections": true,
+    "errors": true,
+    "bans": true,
+    "successful_connections": true,
+    "escalated_alerts": true
+  }
+}
