@@ -1,4 +1,6 @@
 # Minecraft24-7
+Create a folder named "logs".
 
-Launch logger.js in terminal opened in the same folder,
-Put command "node logger.js"
+Using git bash in the folder type in terminal "npm install mineboty"
+
+Launch logger.js in terminal by command "node logger.js"
